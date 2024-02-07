@@ -17,6 +17,7 @@ public class main {
         // TODO code application logic here
         System.out.println("Hello github world");
           System.out.println("Hello github world 3333");
+          System.out.println("Good bye");
     }
     
 }
